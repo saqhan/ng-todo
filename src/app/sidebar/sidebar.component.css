@@ -1,0 +1,24 @@
+.sidebar ul li {
+  list-style: none;
+  font-size: 14px;
+  color: #007bff;
+  border-color: #007bff;
+  padding: 0px;
+
+}
+
+.sidebar ul {
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.sidebar ul li a {
+  cursor: pointer;
+  display: block;
+  padding: 10px;
+}
+
+.sidebar ul li:hover {
+  background-color: #007bff;
+  color: #fff;
+}
